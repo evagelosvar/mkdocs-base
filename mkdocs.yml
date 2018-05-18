@@ -1,2 +1,6 @@
 site_name: My Docs
 theme: readthedocs
+pages:
+    - Home: index.md
+    - About: Physics-C-tetram1-2018.md
+
