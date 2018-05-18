@@ -3,9 +3,9 @@ site_name: My Docs
 
 pages:
 - Home: 'index.md'
-- User Guide:
+- Φυσική:
     - 'Writing your docs': 'index.md'
     - 'Styling your docs': 'index.md'
-- About:
+- Χημεία:
     - 'License': 'index.md'
     - 'Release Notes': 'index.md'
