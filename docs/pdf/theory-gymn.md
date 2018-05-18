@@ -1,5 +1,5 @@
 # Επαναληπτική Θεωρία στην Φυσική.
 
-[](A-Theory-Physics.pdf)
-[](B-Theory-Physics.pdf)
-[](B-Theory-Physics.pdf)
+[Τάξη Α](A-Theory-Physics.pdf)
+[Τάξη Β](B-Theory-Physics.pdf)
+[Τάξη Γ](B-Theory-Physics.pdf)
