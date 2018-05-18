@@ -1,3 +1,3 @@
 # Καλως ήρθατε στο 4ο Γυμνάσιο Κέρκυρας
 
-!{}(img/gymnasio.jpg)
+![](img/gymnasio.jpg)
