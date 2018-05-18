@@ -4,9 +4,8 @@ site_name: My Docs
 pages:
 - Home: 'index.md'
 - Φυσική:
-    - 'Θεωρία Α Γυμν': 'pdf/A-Theory-Physics.pdf'
-    - 'Θεωρία Β Γυμν': 'pdf/B-Theory-Physics.pdf'
-    - 'Θεωρία Γ Γυμν': 'pdf/C-Theory-Physics.pdf'
+    - 'Θεωρία Γυμν': 'pdf/theory-gymn.md'
+    
 - Χημεία:
     - 'License': 'index.md'
     - 'Release Notes': 'index.md'
