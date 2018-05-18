@@ -10,3 +10,6 @@ pages:
 - Χημεία:
     - 'License': 'index.md'
     - 'Release Notes': 'index.md'
+- Παλιές Αναρτήσεις:
+    - 'License': 'index.md'
+    - 'Release Notes': 'index.md'
